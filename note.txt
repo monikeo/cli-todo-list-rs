@@ -1,5 +1,0 @@
-struct Task{}
-
-struct TodoList {
-    vec(Task)
-}
